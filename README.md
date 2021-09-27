@@ -1,0 +1,2 @@
+# INICIATIVA-KUBERNETES-A1
+Nessa aula, você vai conhecer as oportunidades que giram em torno do universo dos containers e Kubernetes e que estão disponíveis para você. Além disso, você já vai ser capaz de executar uma API no seu próprio container Docker, mesmo que você nem tenha experiência com a ferramenta. Ao final da aula, tem um desafio para você exercitar o que já aprendeu e testar os seus conhecimentos.
