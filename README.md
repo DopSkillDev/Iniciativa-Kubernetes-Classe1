@@ -86,5 +86,3 @@ Nessa aula, você vai conhecer as oportunidades que giram em torno do universo d
 ![Screenshot 2021-09-27 at 23-23-49 Aula 1 – Docker – Iniciativa Kubernetes](https://user-images.githubusercontent.com/52793184/135015538-6fe90f53-96f0-41bd-9d03-ecc5e8ba9117.png)
 ![Screenshot 2021-09-27 at 23-24-08 Aula 1 – Docker – Iniciativa Kubernetes](https://user-images.githubusercontent.com/52793184/135015540-78599bff-f177-4407-9703-13587b67ecf9.png)
 ![Screenshot 2021-09-27 at 23-25-29 Aula 1 – Docker – Iniciativa Kubernetes](https://user-images.githubusercontent.com/52793184/135015541-dac31375-7f88-4b0e-bdc2-1f2a28682118.png)
-
-> OBS : retorna a aula 1 no tempo 1:35:35
