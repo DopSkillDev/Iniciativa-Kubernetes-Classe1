@@ -10,7 +10,6 @@
 
 > Hoje uso de containers tem sido adotado cada vez mais. Mas muitos profissionais não conseguem ver o ganho no seu uso. Então vamos imaginar que você está em uma equipe onde todos estão familiarizados e utilizam máquinas virtuais no seu dia a dia, mas existe o desejo de adotar DevOps e utilizar arquitetura de microsserviços. A sua função é esclarecer as dúvidas da galera em relação ao uso de containers e ajudar na adoção.Como a equipe não faz a menor ideia do que são containers, então a sua primeira função é dar clareza pra equipe em relação as vantagens do uso de containers. Escreve aqui porque a sua equipe deve adotar containers e os benefícios no uso da tecnologia.
 >> Porque não temos riscos com algum planejamento inesperado, como antigamente... dizendo que só na minha maquina funciona...
->> Porque não temos riscos com algum planejamento inesperado, como antigamente... dizendo que só na minha maquina funciona...
 
 > Depois que você apontou os benefícios do uso de containers, a galera se animou. Mas alguns questionaram porque usar containers se eles já podem fazer tudo que você falou usando máquinas virtuais. Então agora, você deve escrever porque máquinas virtuais e containers são diferentes e quais são as vantagens da containerização. *
 >> Brevemente falando, a virtualização de máquina consiste em empacotar determinada aplicação em um modelo padrão com seu próprio ambiente operacional. O container também faz empacotamento, mas, no caso, ele não virtualizará o ambiente todo da máquina.
